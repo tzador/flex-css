@@ -12,7 +12,7 @@
   flex-grow: 1;
 }
 
-.p-grow, p-grow {
+.p-gap, p-gap {
   min-width: 1em;
   min-height: 1em;
 }
