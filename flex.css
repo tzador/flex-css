@@ -1,18 +1,18 @@
-.p-row, p-row {
+.flex-row, flex-row {
   display: flex;
   flex-direction: row;
 }
 
-.p-col, p-col {
+.flex-col, flex-col {
   display: flex;
   flex-direction: column;
 }
 
-.p-grow, p-grow {
+.flex-grow, flex-grow {
   flex-grow: 1;
 }
 
-.p-gap, p-gap {
+.flex-gap, flex-gap {
   min-width: 1em;
   min-height: 1em;
 }
